@@ -49,6 +49,7 @@ I welcome contributions! Follow these steps to contribute:
    1. Fork the repository.
    2. Clone your forked repository.
    3. Install dependencies by running `yarn install`.
+   4. Generate the local client artifacts by running `yarn generate:client`.
 2. Making Changes
    1. Create a new branch for your changes.
    2. Make your changes and commit them.
