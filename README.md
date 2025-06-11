@@ -19,7 +19,7 @@ yarn add hibob-sdk
 Don't forget to setup peer dependencies:
 
 ```bash
-yarn add @hey-api/client-fetch
+yarn add axios @hey-api/client-axios
 ```
 
 ## Usage
